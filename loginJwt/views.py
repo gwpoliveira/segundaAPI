@@ -9,6 +9,5 @@ def index(request):
     return HttpResponse(output)
 
 
-from django.shortcuts import render
 
 # Create your views here.
